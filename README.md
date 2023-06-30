@@ -1,3 +1,3 @@
 # Oferta_site
 
-Co-authored-by: M4theusH3nrique <dudurique2000@gmail.com>
+Esté é um site simples que redireciona usuarios
